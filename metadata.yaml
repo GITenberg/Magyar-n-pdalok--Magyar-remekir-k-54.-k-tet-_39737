@@ -1,0 +1,28 @@
+_repo: Magyar-n-pdalok--Magyar-remekir-k-54.-k-tet-_39737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Endrődi, Sándor
+    alias: Endrodi, Sandor
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '41493'
+    url: http://www.gutenberg.org/2009/agents/41493
+    wikipedia: http://hu.wikipedia.org/wiki/Endr%C5%91di_S%C3%A1ndor_(k%C3%B6lt%C5%91)
+description: ''
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39737'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Hungarian'
+- !lcc 'PH'
+title: Magyar népdalok (Magyar remekirók 54. kötet)
+url: http://www.gutenberg.org/ebooks/39737
